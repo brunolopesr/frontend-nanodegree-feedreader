@@ -29,5 +29,5 @@ que loadFeed (função assíncrona) termina sua execução.
 
 - Verifique a seção Jasmine do aplicativo e os testes realizados e como eles são concluídos com sucesso
 
-- Para maior entendimento, abra o arquivo jasmine/spec/feedreader.js para estudar os matches do Jasmine nos recursos
+- Para maior entendimento, abra o arquivo jasmine/spec/feedreader.js para estudar os matchers do Jasmine nos recursos
 do Feed Reader
