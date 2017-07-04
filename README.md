@@ -23,7 +23,7 @@ um elemento '.entry' dentro do contâiner '.feed'
 - Se trocar de feed realmente troca os artigos, ou seja, testa se selecionar outro feed no menu realmente troca os artigos depois
 que loadFeed (função assíncrona) termina sua execução.
 
-# Como usar
+# Como utilizar o aplicativo online
 
 - Acesse o [aplicativo](https://brunolopesr.github.io/frontend-nanodegree-feedreader)
 
@@ -31,3 +31,9 @@ que loadFeed (função assíncrona) termina sua execução.
 
 - Para maior entendimento, abra o arquivo jasmine/spec/feedreader.js para estudar os matchers do Jasmine nos recursos
 do Feed Reader
+
+# Como utilizar o aplicativo localmente
+
+1. Baixe ou clone este repositório
+2. Navegue até o diretório local
+3. Abra o arquivo index.html em um navegador de internet (Exemplo: Google Chrome)
